@@ -1,0 +1,13 @@
+#======================================================================================
+#
+# Base install of Arch Linux
+#
+#======================================================================================
+#
+# Author  : Koen Colpaert
+# License : Distributed under the terms of GNU GPL version 2 or later
+#
+# USE AT OWN RISK.
+#======================================================================================
+
+Instructions for the base install of Arch Linux
