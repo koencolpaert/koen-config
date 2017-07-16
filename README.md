@@ -14,5 +14,5 @@ For naming my computers I'm using a naming scheme based on the Periodic Table of
 These are machines I own/use:
 
 - [Argon](http://github.com/koencolpaert/koen-config/argon.md), primary notebook
-- [Xenon](http://github.com/koencolpaert/koen-config/xenon.md), workstation
+- [Xenon](https://github.com/koencolpaert/koen-config/blob/master/xenon.md), workstation
 - [Helium](http://github.com/koencolpaert/koen-config/helium.md), travel notebook
