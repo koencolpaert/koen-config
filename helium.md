@@ -11,3 +11,15 @@ Installed Arch with xmonad WM, Mutt and Moc to have a terminal based setup.
 
 (2017-07)
 Helium is currently running Ubuntu 16.04 LTS and is mainly used for testing new Linux-distributions and software.
+
+### Arc theme and icons
+- install [Unity Tweak tool](http://www.omgubuntu.co.uk/2016/06/install-latest-arc-gtk-theme-ubuntu-16-04)
+- sudo add-apt-repository ppa:noobslab/themes
+- sudo apt-get update
+- sudo apt-get install arc-theme
+- sudo add-apt-repository ppa:noobslab/icons
+- sudo apt-get update
+- sudo apt-get install arc-icons
+
+### Changed wallpaper
+- choose wallpaper from /wallpapers/MKBHD
