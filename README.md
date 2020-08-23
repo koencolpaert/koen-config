@@ -7,18 +7,20 @@ For naming my computers I'm using a naming scheme based on the Periodic Table of
 
 ## Conventions
 
-- All Unix/Linux-based machines are nobel gasses (Argon, Xenon, Helium,..)
+- All workstation/machines are noble gasses (Argon, Xenon, Helium,..)
 - Special purpose devices like Raspberry Pi's or phones are transition metals (Iridium, Titanium, Zirconium,...)
 - Virtual machines are non-metals (Carbon, Oxygen, Nitrogen,...)
-- Windows machines are named after radio-active elements or other poisonous stuff (Plutonium, Uranium,...)
+
 
 ## Boxes
 These are machines I own/use:
 
 _*NIX_
-- [Argon](https://github.com/koencolpaert/koen-config/blob/master/argon.md), primary notebook
-- [Xenon](https://github.com/koencolpaert/koen-config/blob/master/xenon.md), workstation
-- [Helium](https://github.com/koencolpaert/koen-config/blob/master/helium.md), travel notebook
+- [Xenon](https://github.com/koencolpaert/koen-config/blob/master/xenon.md), primary laptop
+
 
 _Windows_
-- [Arsenicum](https://github.com/koencolpaert/koen-config/blob/master/arsenicum.md), my daugther's notebook
+- [Argon](https://github.com/koencolpaert/koen-config/blob/master/argon.md), primary workstation
+
+_Misc_
+- Synology DS418play (2 x 4TB Seagate IronWolf ST4000VN008, 2 x Samsung 1TB)
